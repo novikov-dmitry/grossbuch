@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace grossbuch\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
